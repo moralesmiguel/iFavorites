@@ -41,4 +41,8 @@ Search screen:
 
 ![iFavoritesmain](https://user-images.githubusercontent.com/51275356/72684715-b1cadc00-3aa8-11ea-912c-6ae39167ac26.JPG)
 
+Favorites screen:
+
+![favoritessection](https://user-images.githubusercontent.com/51275356/72684764-f5bde100-3aa8-11ea-8676-57a165cca16f.JPG)
+
 
