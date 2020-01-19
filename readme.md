@@ -31,6 +31,10 @@ Security:
 Seeing that there is no authentication at this point, the default security 
 for Helmet.js was used on the app.
 
-Link to app: https://pacific-plains-18477.herokuapp.com/
+How to test:
+
+1. Both backend and frontend can be tested, to do this simply navigate to the desired one in your CLI and type 'npm test'.
+
+Link to app: https://serene-meadow-48919.herokuapp.com/
 
 
