@@ -37,4 +37,8 @@ How to test:
 
 Link to app: https://serene-meadow-48919.herokuapp.com/
 
+Search screen:
+
+![iFavoritesmain](https://user-images.githubusercontent.com/51275356/72684715-b1cadc00-3aa8-11ea-912c-6ae39167ac26.JPG)
+
 
